@@ -64,7 +64,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
+  color: #4E56FF;
   text-align: left;
   background-color: #fff;
 }
@@ -10021,7 +10021,7 @@ p.lead {
   text-transform: uppercase;
 }
 #sideNav .navbar-toggler:focus {
-  outline-color: #4E56FF;
+  outline-color: #d48a6e;
 }
 
 @media (min-width: 992px) {
