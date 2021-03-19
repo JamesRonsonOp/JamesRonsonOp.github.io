@@ -27,6 +27,8 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
 }
 
+
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
@@ -448,7 +450,7 @@ h1, h2, h3, h4, h5, h6 {
   display: inline-block;
   padding: 10px 28px;
   transition: 0.5s;
-  border: 2px solid #fff;
+  border: 2px solid #fc0303;
   color: #fff;
 }
 
@@ -480,6 +482,7 @@ h1, h2, h3, h4, h5, h6 {
     margin-bottom: 30px;
   }
 }
+
 
 /*--------------------------------------------------------------
 # Sections General
@@ -745,7 +748,7 @@ section {
   padding: 10px 28px;
   transition: 0.5s;
   margin-top: 10px;
-  border: 2px solid #fff;
+  border: 2px solid #fc0303;
   color: #fff;
 }
 
